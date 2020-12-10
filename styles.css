@@ -1,0 +1,51 @@
+body{
+    background-color: red;
+}
+.upperHeader
+{
+    width:100%;
+    height:10vh;
+    margin:0;
+    text-align: center;
+    padding-top: 1rem;
+    font-size:2rem;
+  
+
+}
+
+
+.headBritish
+{
+    background-color: blue;
+    color:white;
+}
+
+
+#inputText
+{
+    width:70%;
+    margin:0 auto;
+    margin-top:5rem;
+    display:block;
+    padding:.5rem;
+    background-color: rgb(252, 181, 181);
+    color:blue;
+}
+.btn-translate
+{
+    border:4px solid rgb(252, 181, 181) ;
+    padding:.5rem;
+    margin:2rem;
+    margin-left:4rem;
+    width:10rem;
+
+}
+.outputText
+{
+    width:80%;
+    height:30vh;
+    background-color: blue;
+    margin:0 auto;
+    padding:.5rem;
+    color:white;
+}
